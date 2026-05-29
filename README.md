@@ -16,7 +16,7 @@ Identify and document security weaknesses in REST API endpoints using manual and
 Burp Suite | Postman | Browser DevTools | Docker | OWASP API Top 10 Framework
 
 ## 📄 Full Report
-See `reports/crAPI_API_Security_Report.pdf` for all findings with proof-of-concept requests, responses, and remediation recommendations.
+See `C4A_WebSecurity&API Report` for all findings with proof-of-concept requests, responses, and remediation recommendations.
 
 ## ⚠️ Disclaimer
 Testing was conducted solely against the OWASP crAPI lab environment for educational purposes. No real systems were targeted.
